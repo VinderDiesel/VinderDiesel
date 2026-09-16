@@ -1,6 +1,6 @@
 <div align="center">
 
-# 杨新龙 / Damon
+# Damon
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Agent+Engineer;LLM+%E5%B7%A5%E7%A8%8B%E5%8C%96+专家;大数据架构师;从+0+到+1+构建核心平台" alt="Typing SVG" />
 
