@@ -67,7 +67,7 @@
 
 <div align="center">
 
-### [Atlas — 金融可信 AI 问数平台](https://github.com/damonyxl/Atlas)
+### [Atlas — 金融可信 AI 问数平台](https://github.com/VinderDiesel/Atlas)
 
 <img src="https://img.shields.io/badge/Status-Active%20Development-10B981?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -135,7 +135,7 @@
 
 <div align="center">
 
-**[🔗 访问项目](https://github.com/damonyxl/Atlas)** · **[📖 阅读文档](https://github.com/damonyxl/Atlas/blob/main/README.md)**
+**[🔗 访问项目](https://github.com/VinderDiesel/Atlas)** · **[📖 阅读文档](https://github.com/VinderDiesel/Atlas/blob/main/README.md)**
 
 </div>
 
