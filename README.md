@@ -19,7 +19,7 @@
 
 <div align="center">
 
-| 🤖 FDE | 🧩 Agent 构建 | 🏗️ 从 0 到 1 |
+| 🤖 LLM 工程 | 🧩 Agent 构建 | 🏗️ 从 0 到 1 |
 |:---:|:---:|:---:|
 | 模型部署·量化·微调·推理加速<br/>本地部署实现 **20x** 性能提升 | LangGraph 多步骤 Agent<br/>Skills / MCP / RAG 集成 | 非结构化处理中台<br/>多模态搜索 · AI PaaS |
 
