@@ -240,7 +240,7 @@ pipeline:
 
 ### 📫 找到我
 
-**Email**: [chenblue1224@gmail.com](mailto:chenblue1224@gmail.com) · **WeChat**: `DamonYang9202` · 📍 苏州
+**Email**: [chenblue1224@gmail.com](mailto:chenblue1224@gmail.com) · **WeChat**: `Damonyxl` · 📍 苏州
 
 <br/>
 
